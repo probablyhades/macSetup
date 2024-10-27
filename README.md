@@ -1,5 +1,5 @@
 # macSetup
 My macOS setup script and configuration files.
 
-
-chmod +x ./macSetup.sh && ./macSetup.sh
+``git clone https://github.com/probablyhades/macSetup``
+``chmod +x ./macSetup.sh && ./macSetup.sh``
