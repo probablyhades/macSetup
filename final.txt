@@ -1,0 +1,19 @@
+  __   _  _  ____  __   _  _   __  ____  ____  ____    ____  ____  ____  _  _  ____     ___  __   _  _  ____  __    ____  ____  ____  _
+ / _\ / )( \(_  _)/  \ ( \/ ) / _\(_  _)(  __)(    \  / ___)(  __)(_  _)/ )( \(  _ \   / __)/  \ ( \/ )(  _ \(  )  (  __)(_  _)(  __)/ \
+/    \) \/ (  )( (  O )/ \/ \/    \ )(   ) _)  ) D (  \___ \ ) _)   )(  ) \/ ( ) __/  ( (__(  O )/ \/ \ ) __// (_/\ ) _)   )(   ) _) \_/
+\_/\_/\____/ (__) \__/ \_)(_/\_/\_/(__) (____)(____/  (____/(____) (__) \____/(__)     \___)\__/ \_)(_/(__)  \____/(____) (__) (____)(_)
+
+The automated setup has completed! You'll need to do these next:
+
+## App Store Installs ##
+- Authy
+- Musicboard
+- Real Sports
+
+These iOS apps can't be installed automatically.
+
+## You'll need to install the apps downloaded to ~/Downloads/macSetup
+## You'll need to open IINA and set it as default.
+## You'll need to open apps and sign in, apply licenses, etc.
+## You'll also need to set dock icons, wallpapers, etc.
+## You'll want to copy the apps from the T7 to ~/Applications as well, and follow the instructions there as well.
