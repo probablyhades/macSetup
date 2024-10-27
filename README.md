@@ -1,2 +1,2 @@
 # macSetup
-My macOS setup script.
+My macOS setup script and configuration files.
